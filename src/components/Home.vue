@@ -15,6 +15,7 @@
       <router-link tag="a" target="_blank" to="/Demo12">一个简易的仓库-里面有卡车，手推车</router-link>
       <router-link tag="a" target="_blank" to="/Demo13">一个简易的仓库-里面有卡车，手推车，叉车，公路，草地，人，盒子等</router-link>
       <router-link tag="a" target="_blank" to="/Demo14">导入.gltf文件仓库</router-link>
+      <router-link tag="a" target="_blank" to="/Demo15">仓库</router-link>
     </div>
   </div>
 </template>
