@@ -1,0 +1,205 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 6076,
+      "max": [
+        4.5559806823730469,
+        5.4357266426086426,
+        10.002151489257812
+      ],
+      "min": [
+        -4.7897524833679199,
+        -2.4142434597015381,
+        1.5229930877685547
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 72912,
+      "componentType": 5126,
+      "count": 6076,
+      "max": [
+        0.99975568056106567,
+        0.99967807531356812,
+        0.9999116063117981
+      ],
+      "min": [
+        -0.99958556890487671,
+        -0.99986547231674194,
+        -0.99281316995620728
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 6076,
+      "max": [
+        0.99991106986999512,
+        0.99950158596038818,
+        0.98502326011657715,
+        1
+      ],
+      "min": [
+        -0.99848669767379761,
+        -0.99980753660202026,
+        -0.99924170970916748,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 97216,
+      "componentType": 5126,
+      "count": 6076,
+      "max": [
+        0.75294119119644165,
+        0.75294119119644165,
+        0.75294119119644165,
+        1
+      ],
+      "min": [
+        0.75294119119644165,
+        0.75294119119644165,
+        0.75294119119644165,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 36024,
+      "max": [
+        6075
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "oritbortnik (https://sketchfab.com/oritbortnik)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/models/951b07b30215454294698c5ecc726b60",
+      "title": "SAMLL JUG FINAL PROJECT ORIT BORTNIK"
+    },
+    "generator": "Sketchfab-3.18.2",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 144096,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 145824,
+      "byteOffset": 144096,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 194432,
+      "byteOffset": 289920,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 484352,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "Scene_-_Root",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5,
+          0.5,
+          0.5,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 3,
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "Geode"
+    },
+    {
+      "mesh": 0,
+      "name": ""
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
+
