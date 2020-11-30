@@ -38,7 +38,7 @@
       var ImageLoader = new THREE.ImageLoader();
       let _this = this
       ImageLoader.load(this.imgUrl, (img) =>{
-        console.log(111)
+        //console.log(111)
         // image对象作为参数，创建一个纹理对象Texture
         var texture = new THREE.Texture(img);
         // 下次使用纹理时触发更新

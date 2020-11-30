@@ -335,7 +335,8 @@
       var s = 200; //三维场景显示范围控制系数，系数越大，显示的范围越大
       //创建相机对象
       //this.camera = new THREE.OrthographicCamera(-s * k, s * k, s, -s, 0.1, 1000);
-      this.camera = new THREE.PerspectiveCamera( 80, window.innerWidth/window.innerHeight, 0.1, 1000);
+      //this.camera = new THREE.PerspectiveCamera( 80, window.innerWidth/window.innerHeight, 0.1, 1000);
+      this.camera = new THREE.PerspectiveCamera(60, this.width / this.height, 1, 1000)
       this.camera.position.set(300, 100, 160); //设置相机位置
       // this.camera.lookAt(this.scene.position); //设置相机方向(指向的场景对象)
       this.camera.lookAt({x:0,y:0,z:0}); //设置相机方向(指向的场景对象)

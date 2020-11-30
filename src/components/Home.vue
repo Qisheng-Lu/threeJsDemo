@@ -15,7 +15,12 @@
       <router-link tag="a" target="_blank" to="/Demo12">一个简易的仓库-里面有卡车，手推车</router-link>
       <router-link tag="a" target="_blank" to="/Demo13">一个简易的仓库-里面有卡车，手推车，叉车，公路，草地，人，盒子等</router-link>
       <router-link tag="a" target="_blank" to="/Demo14">导入.gltf文件仓库</router-link>
-      <router-link tag="a" target="_blank" to="/Demo15">仓库</router-link>
+      <router-link tag="a" target="_blank" to="/Demo15">仓库，带货架</router-link>
+      <router-link tag="a" target="_blank" to="/Demo16">多个物体，可交互，点击改变物体颜色</router-link>
+      <router-link tag="a" target="_blank" to="/Demo17">加载一个.gltf外部文件，点击获取它</router-link>
+      <router-link tag="a" target="_blank" to="/Demo18">点击加冷库空间状态,获取非外部导入的对象（墙面、地面等）</router-link>
+      <router-link tag="a" target="_blank" to="/Demo19">导入.stl文件</router-link>
+      <router-link tag="a" target="_blank" to="/Demo20">导入.obj文件,且导入材质</router-link>
     </div>
   </div>
 </template>
