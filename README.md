@@ -7,3 +7,6 @@
 npm install
 npm run start
 
+效果图部分展示如下：
+https://github.com/Qisheng-Lu/threeJsDemo/blob/master/static/10ccce4291cb8ca334a8572c6280b4b.png
+
