@@ -15,4 +15,5 @@ https://github.com/Qisheng-Lu/threeJsDemo/blob/master/static/10ccce4291cb8ca334a
 https://github.com/Qisheng-Lu/threeJsDemo/blob/master/static/9a1a4421ef32d92c98fe1919bf25ae7.png
 
 图3：
+https://github.com/Qisheng-Lu/threeJsDemo/blob/master/static/c557ae92c9fe509cc619ea9565db408.png
 
