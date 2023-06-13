@@ -8,5 +8,11 @@ npm install
 npm run start
 
 效果图部分展示如下：
+图1：
 https://github.com/Qisheng-Lu/threeJsDemo/blob/master/static/10ccce4291cb8ca334a8572c6280b4b.png
+
+图2：
+https://github.com/Qisheng-Lu/threeJsDemo/blob/master/static/9a1a4421ef32d92c98fe1919bf25ae7.png
+
+图3：
 
